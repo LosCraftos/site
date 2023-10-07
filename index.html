@@ -553,20 +553,7 @@
     document.addEventListener('contextmenu', function (e) {
       e.preventDefault();
     });
-
-    // Zakázání klávesové zkratku F12
-    document.addEventListener('keydown', function (e) {
-      if (e.key === 'F12') {
-        e.preventDefault();
-      }
-    });
-
-    // Zakázání klávesové zkratky Ctrl+A, Ctrl+C, Ctrl+U
-    document.addEventListener('keydown', function (e) {
-      if (e.ctrlKey && (e.key === 'a' || e.key === 'c' || e.key === 'u')) {
-        e.preventDefault();
-      }
-    });
+    
   </script>
   <!-- === Hlavní script konec === -->
 </body>
