@@ -1,0 +1,1 @@
+Čus pic kapitáne, tohle repo je moje webová stránka, která byla tvořena s láskou a citem společně s mým jedním bývalým kamarádem. Doufám, že se ti repo líbí a prosím NEKOPÍRUJ TENTO KÓD ANI HO NIJAK NEVYUŽÍVEJ, JE TO SOUKROMÁ STRÁNKA.. Děkuji předem za dodržení!
